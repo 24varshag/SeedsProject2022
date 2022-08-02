@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carbon Emissions Calculator</string>
+    <string name="bill_amount">Make</string>
+    <string name="model_name">Model</string> // might not need this
+    <string name="car_year">Miles</string>
+    <string name="calculate_tip">Calculate Emissions</string>
+    <string name="tip_amount">Carbon Emissions: </string>
+
+</resources>
